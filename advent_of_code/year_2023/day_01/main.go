@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Bilbottom/advent-of-code-go/advent_of_code/utils"
+	"github.com/billwallis/advent-of-code-go/advent_of_code/utils"
 )
 
 //go:embed input.data

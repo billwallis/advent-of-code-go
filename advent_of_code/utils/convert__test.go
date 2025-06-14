@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	"github.com/Bilbottom/advent-of-code-go/advent_of_code/utils"
+	"github.com/billwallis/advent-of-code-go/advent_of_code/utils"
 )
 
 func Test_ToInt(t *testing.T) {

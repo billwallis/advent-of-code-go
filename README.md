@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Go](https://img.shields.io/badge/Go-1.22-blue.svg)](https://go.dev/)
-![GitHub last commit](https://img.shields.io/github/last-commit/Bilbottom/advent-of-code-go)
+![GitHub last commit](https://img.shields.io/github/last-commit/billwallis/advent-of-code-go)
 
 </div>
 
@@ -17,4 +17,4 @@ This is just an opportunity for me to work on Go, so the solutions are not optim
 
 Sibling project to:
 
-- [https://github.com/Bilbottom/advent-of-code](https://github.com/Bilbottom/advent-of-code)
+- [https://github.com/billwallis/advent-of-code](https://github.com/billwallis/advent-of-code)
